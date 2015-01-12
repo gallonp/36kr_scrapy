@@ -1,0 +1,1407 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="renderer" content="webkit">
+  <link href="http://d.36kr.com/assets/kr36-661f5a72ecb1619716ac317fd15169e4.css" media="screen" rel="stylesheet" type="text/css" />
+  
+  <link rel="shortcut icon" href="/favicon.ico" />
+  <title>36氪 | 关注互联网创业</title>
+  <meta name="keywords" content="36氪, 36kr, 36tr, 创业, 想创业, 投资, 融资, 创投媒体, 创业公司, 科技新闻, 移动互联网, 资讯平台, 开放日, 互联网创业" />
+  <meta name="description" content="36氪是一个关注互联网创业的科技博客" />
+  <link rel="author" href="/humans.txt">
+   <!-- Prefetch -->
+  <link rel="dns-prefetch" href="//fonts.googleapis.com">
+  <link rel="dns-prefetch" href="//a.36krcnd.com">
+  <link rel="dns-prefetch" href="//d.36kr.com">
+  <link rel="dns-prefetch" href="//js-agent.newrelic.com">
+  <link rel="dns-prefetch" href="//cdn.staticfile.org">
+  <link rel="dns-prefetch" href="//beacon-5.newrelic.com">
+  <link rel="dns-prefetch" href="//google-analytics.com">
+  <link rel="dns-prefetch" href="//www.google-analytics.com">
+ <meta content="authenticity_token" name="csrf-param" />
+<meta content="zailaCDjSmSLEsbE+ciwumjoUBCR9A8dO1GOkm3O3VI=" name="csrf-token" />
+<!--[if lt IE 9]>
+    <script src="http://d.36kr.com/assets/sass/vender/html5shiv.js"></script>
+<![endif]-->
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
+<body id="home">
+    <header class="header header-normal">
+    <div class="inner row">
+      <h1 class="logo"><a href="/"><span>36Kr</span></a></h1>
+      <nav class="toggle-nav cf">
+        <ul class="left">
+          <li><a href="javascript:void(0)" class="toggle__main icon-menu"><span>导航</span></a></li>
+          <li><a href="javascript:void(0)" class="toggle__search icon-search"><span>搜索</span></a></li>
+        </ul>
+        <a href="http://report.36kr.com" class="toggle__submit right">寻求报道</a>
+      </nav>
+      <nav class="main-nav left">
+        <ul>
+          <li class="drop-1 drop">
+            <a href="/explore" class="hasdropdown main-nav__item">分类浏览</a>
+            <div class="dropdown">
+              <div class="dropdown-list dropdown__list">
+                <section>
+                  <h2>Category</h2>
+                  <ul class="dropdown__category cf">
+                    <li><a href="/category/cn-startups">国内公司</a></li>
+                    <li><a href="/category/us-startups">国外公司</a></li>
+                    <li><a href="/category/cn-news">国内资讯</a></li>
+                    <li><a href="/category/breaking">国外资讯</a></li>
+                    <li><a href="/tag/氪周刊">氪周刊</a></li>
+                    <li><a href="/pages/krmonthly">氪月报</a></li>
+                    <li><a href="/category/column">专栏</a></li>
+                    <li><a href="/category/archives">存档</a></li>
+                  </ul>
+                </section>
+                <section>
+                  <h2>Topic</h2>
+                  <ul class="dropdown__topic cf">
+                    <li><span><a href="/topic/startups" class="startups">创业公司</a> / Startups</span></li>
+                    <li><span><a href="/topic/products" class="products">产品</a> / Products</span></li>
+                    <li><span><a href="/topic/apps" class="apps">应用软件</a> / Apps</span></li>
+                    <li><span><a href="/topic/technology" class="technology">科技</a> / Technology</span></li>
+                    <li><span><a href="/topic/websites" class="websites">网站</a> / Websites</span></li>
+                    <li><span><a href="/topic/people" class="people">人物</a> / People</span></li>
+                    <li><span><a href="/topic/brands" class="brands">品牌</a> / Brands</span></li>
+                    <li><span><a href="/topic/devices" class="devices">硬件</a> / Devices</span></li>
+                  </ul>
+                </section>
+                <section class="more">
+                  <a href="/explore">查看更多精彩文章</a>
+                </section>
+              </div>
+            </div>
+          </li>
+          <li class="drop-2 drop">
+            <a href="/events" class="hasdropdown main-nav__item">最新活动</a>
+              <div class="dropdown dropdown-normal">
+                <div class="dropdown-list dropdown__list">
+                                        <section class="dropdown__events cf">
+                    <div class="date left upcoming">
+                      <span class="month"> dec </span>
+                      <span class="day">13</span>
+                    </div>
+                    <div class="intro">
+                      <h3><a href="http://www.36kr.com/events/oday-201412-hz">36氪开放日 杭州站</a></h3>
+                      <span class="address">杭州，中国</span>
+                    </div>
+                  </section>
+                    <section class="dropdown__events cf">
+                    <div class="date left">
+                      <span class="month"> oct </span>
+                      <span class="day">28</span>
+                    </div>
+                    <div class="intro">
+                      <h3><a href="http://wise.36kr.com/">WISE 大会</a></h3>
+                      <span class="address">北京，中国</span>
+                      <span class="status">已结束</span>
+                    </div>
+                  </section>
+                     <section class="dropdown__events cf">
+                    <div class="date left">
+                      <span class="month"> oct </span>
+                      <span class="day">11</span>
+                    </div>
+                    <div class="intro">
+                      <h3><a href="http://www.36kr.com/p/215350.html">36氪开放日 硅谷站</a></h3>
+                      <span class="address">北京，中国</span>
+                      <span class="status">已结束</span>
+                    </div>
+                  </section>
+                  <section class="more">
+                    <a href="/events">查看所有活动</a>
+                  </section>
+                </div>
+
+              </div>
+          </li>
+                    <li class="main-nav--new">
+            <a target="_blank" href="http://www.36kr.net/?utm_source=36kr.com" class="main-nav__item">氪加</a>
+          </li>
+          <li class="main-nav--new">
+            <a href="http://next.36kr.com/posts?utm_source=36kr.com" class="main-nav__item">NEXT</a>
+          </li>
+          <li class="drop-3 drop main-nav--more">
+            <a href="javascript:;" class="hasdropdown main-nav__item">更多</a>
+            <div class="dropdown dropdown-normal">
+              <div class="dropdown-list dropdown__list main-nav__list">
+                <section class="dropdown__events cf">
+                  <a href="http://space.36kr.com/?utm_source=36kr.com" class="external" target="_blank"><div class="product-logo product-krspace left"></div></a>
+                  <div class="intro">
+                    <h3><a href="http://space.36kr.com/?utm_source=36kr.com">氪空间</a></h3>
+                    <span class="bio">好的创业，从氪空间开始</span>
+                  </div>
+                </section>
+                <section class="dropdown__events cf">
+                  <a href="http://space.36kr.com/?utm_source=36kr.com" class="external" target="_blank"><div class="product-logo product-next left"></div></a>
+                  <div class="intro">
+                    <h3><a href="http://next.36kr.com/?utm_source=36kr.com">NEXT</a></h3>
+                    <span class="bio">不错过任何一个新产品</span>
+                  </div>
+                </section>
+                <section class="dropdown__events cf">
+                  <a href="http://www.36kr.net/?utm_source=36kr.com"><div class="product-logo product-krplus left"></div></a>
+                  <div class="intro">
+                    <h3><a href="http://www.36kr.net/?utm_source=36kr.com">氪加</a></h3>
+                    <span class="bio">创业公司融资平台</span>
+                  </div>
+                </section>
+                <section class="dropdown__events cf">
+                  <a href="http://www.36kr.com/tag/wise?utm_source=36kr.com"><div class="product-logo product-wise left"></div></a>
+                  <div class="intro">
+                    <h3><a href="http://www.36kr.com/tag/wise%202014">WISE 1.0</a></h3>
+                    <span class="bio">互联网创业峰会</span>
+                  </div>
+                </section>
+                <section class="dropdown__events cf">
+                  <a href="http://www.36kr.com/topics?utm_source=36kr.com"><div class="product-logo product-beiji left"></div></a>
+                  <div class="intro">
+                    <h3><a href="http://www.36kr.com/topics?utm_source=36kr.com">北极社区</a></h3>
+                    <span class="bio">创业者互动社区</span>
+                  </div>
+                </section>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </nav>
+      <div class="search">
+        <form action="/search"><input name="q" type="search" placeholder="搜索" /></form>
+      </div>
+      <nav class="second-nav">
+        <ul>
+          <li><a href="/pages/contribute" class="second-nav__submit">投稿</a></li>
+          <li><a href="http://report.36kr.com" class="second-nav__request">寻求报道</a></li>
+          <li><a href="#panel-login" class="second-nav__login overlay">登录</a></li>
+        </ul>
+        <a href="/account/sign_out" data-method="delete" rel="nofollow" id="login_out_link"></a>
+      </nav>
+    </div>
+  </header>
+
+	  <div class="container row">
+    <div class="main">
+      <div class="headline cf">
+	<article class="headline__news">
+		<a href="/p/218307.html?ref=index_feature_topics" class="topic-post-big">      
+      <img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2015/4c6ade87bc1fce9557c2477997c9adea.jpg!slider" src="http://d.36kr.com/assets/images/blank.gif" />
+			<span class="spinner"></span>
+			<div class="image-overlay big"></div>
+			<h1>豆瓣醒了，same准备好了么？</h1>
+		</a>	
+	</article>
+	<article class="headline__news">
+	<a href="/p/218364.html?ref=index_feature_topics" class="topic-post-small one">
+		<div class="image-overlay small"></div>
+		<div class="topic-title">
+			<h1>独轮电动车只能做玩具？
+</h1>
+			<span></span>
+		</div>
+	</a>
+</article>
+<article class="headline__news">
+	<a href="/p/218353.html?ref=index_feature_topics" class="topic-post-small two">
+		<div class="image-overlay small"></div>
+		<div class="topic-title">
+			<h1>移动健康医疗元年预测：巨头来自这四股势力
+
+ </h1>
+			<span></span>
+		</div>
+	</a>
+</article>
+<article class="headline__news">
+	<a href="/p//218354.html?ref=index_feature_topics" class="topic-post-small three">
+		<div class="image-overlay small"></div>
+		<div class="topic-title">
+			<h1>8点1氪：小米2014年全年售出6112万台手机
+
+</h1>
+			<span></span>
+		</div>
+	</a>
+</article>
+<article class="headline__news">
+	<a href="http://www.36kr.com/p/218366.html?ref=index_feature_topics" class="topic-post-small four">
+		<div class="image-overlay small"></div>
+		<div class="topic-title">
+			<h1>【KrTV视频】回顾科技界疯狂的2014
+
+
+
+</h1>
+			<span></span>
+		</div>
+	</a>
+</article>
+</div>
+
+
+      		<div class="content" id="lastest">
+			<div class="content-wrapper">
+				<h2 class="lastest">latest news</h2>
+				<div class="articles">
+					<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/column" class="column">专栏</a> / column
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/u1418968513" class="uname user_u1418968513" data-name="Chientung" target="_blank">Chientung</a> • <abbr class="timeago" title="2015-01-04T11:52:41+08:00"></abbr> </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218283.html"><i class="icon icon-share"></i> 9</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218283.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2014/9126243f8135049f730d5c64a20c8f1a.jpg!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218283.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="谷歌学术搜索的风雨十年">谷歌学术搜索的风雨十年</a></h1>
+    <p>11月18日，谷歌学术迎来了它的十周岁生日。</p>
+  </div>
+
+</article>
+
+
+
+
+
+
+
+
+<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/breaking" class="breaking">国外资讯 </a> / breaking
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/u1418968513" class="uname user_u1418968513" data-name="Chientung" target="_blank">Chientung</a> • <abbr class="timeago" title="2015-01-04T11:50:48+08:00"></abbr> </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218279.html"><i class="icon icon-share"></i> 5</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218279.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2014/84b7d7ba3516bee593e6b8945f43ec2d.jpg!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218279.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="当材料科学家遇见章鱼：新的柔性显示器呼之欲出">当材料科学家遇见章鱼：新的柔性显示器呼之欲出</a></h1>
+    <p>仿生学再放大招，这一次中招的是章鱼。</p>
+  </div>
+
+</article>
+
+
+
+
+
+      <script type="text/javascript">BAIDU_CLB_fillSlot("495277");</script>
+
+
+
+<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/breaking" class="breaking">国外资讯 </a> / breaking
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/katherinel" class="uname user_katherinel" data-name="Nicholas" target="_blank">Nicholas</a> • <abbr class="timeago" title="2015-01-04T11:25:53+08:00"></abbr> </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218363.html"><i class="icon icon-share"></i> 5</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218363.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2015/0e704c9cbed71463889c7fa519b3a322.jpg!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218363.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="Twitter将推出自家视频工具，与Youtube争夺视频广告市场">Twitter将推出自家视频工具，与Youtube争夺视频广告市场</a></h1>
+    <p>这一功能让用户更便捷地在 Twitter 上观看视频，还能帮助用户进行视频的录制、编辑和分享。</p>
+  </div>
+
+</article>
+
+
+
+
+
+
+
+
+<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/cn-news" class="cn-news">国内资讯</a> / cn-news
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/u1394858830" class="uname user_u1394858830" data-name="Leah" target="_blank">Leah</a> • <abbr class="timeago" title="2015-01-04T11:22:41+08:00"></abbr> </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218365.html"><i class="icon icon-share"></i> 11</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218365.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2015/db531076c037ea97a4ac94ce09269f8e.jpg!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218365.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="中英人寿对接春雨医生资源，会催生在线问诊商业模式？">中英人寿对接春雨医生资源，会催生在线问诊商业模式？</a></h1>
+    <p>保险公司一口吃成大胖子的feel……。</p>
+  </div>
+
+</article>
+
+
+
+
+
+
+
+
+<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/column" class="column">专栏</a> / column
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/u1391057200" class="uname user_u1391057200" data-name="guozhan" target="_blank">guozhan</a> • <abbr class="timeago" title="2015-01-04T11:22:05+08:00"></abbr> </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218366.html"><i class="icon icon-share"></i> 10</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218366.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2015/ac36be1deea51dbe77d408c6ecbcc78c.png!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218366.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="【KrTV视频】回顾科技界疯狂的2014">【KrTV视频】回顾科技界疯狂的2014</a></h1>
+    <p>2014科技界最让人难忘的人物、新品、成功、还有失败。</p>
+  </div>
+
+</article>
+
+
+
+
+
+
+
+
+<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/cn-startups" class="us-startups">创业公司</a> / startups
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/leon" class="uname user_leon" data-name="Leon" target="_blank">Leon</a> • <abbr class="timeago" title="2015-01-04T11:13:01+08:00"></abbr> </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218364.html"><i class="icon icon-share"></i> 6</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218364.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2015/af0b3314bf5a01c0f16fb255596401c1.png!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218364.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="独轮电动车只能做玩具？">独轮电动车只能做玩具？</a></h1>
+    <p>如果电动独轮车能够解决上手难的问题，可能会成为代步领域的一匹黑马。</p>
+  </div>
+
+</article>
+
+
+
+
+
+      <script type="text/javascript">BAIDU_CLB_fillSlot("993903");</script>
+
+
+
+<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/column" class="column">专栏</a> / column
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/chloe1988" class="uname user_Chloe1988" data-name="Chloe" target="_blank">Chloe</a> • <abbr class="timeago" title="2015-01-04T11:12:20+08:00"></abbr> </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218307.html"><i class="icon icon-share"></i> 8</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218307.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2015/4c6ade87bc1fce9557c2477997c9adea.jpg!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218307.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="豆瓣醒了，same准备好了么？">豆瓣醒了，same准备好了么？</a></h1>
+    <p>当然，二者一个由PC时代转世而来，一个生而移动，有代沟的。</p>
+  </div>
+
+</article>
+
+
+
+
+
+
+
+
+<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/cn-startups" class="us-startups">创业公司</a> / startups
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/linxi9096" class="uname user_linxi9096" data-name="林西抹抹茶" target="_blank">林西抹抹茶</a> • <abbr class="timeago" title="2015-01-04T11:11:42+08:00"></abbr> </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218356.html"><i class="icon icon-share"></i> 12</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218356.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2015/99b1895dcecf43edd162b60de9c69244.png!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218356.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="“视频标签化”正成新趋势？点触视频网站“云视链”想用小标签改变广告大生态">“视频标签化”正成新趋势？点触视频网站“云视链”想用小标签改变广告大生态</a></h1>
+    <p>给你的视频也加个标签。</p>
+  </div>
+
+</article>
+
+
+
+
+
+
+
+
+<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/breaking" class="breaking">国外资讯 </a> / breaking
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/yanshuyuan36kr" class="uname user_yanshuyuan36Kr" data-name="厨子与剑客" target="_blank">厨子与剑客</a> • <abbr class="timeago" title="2015-01-04T10:03:20+08:00"></abbr> </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218358.html"><i class="icon icon-share"></i> 5</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218358.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2015/45b22470e169a0b621075aff56dc8d8d.jpg!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218358.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="买Galaxy Note 4和S5送一年Netflix订阅，三星真的是拼了">买Galaxy Note 4和S5送一年Netflix订阅，三星真的是拼了</a></h1>
+    <p>圣诞和新年都过去了，现在才带着Netflix一起飞，会不会晚了点。</p>
+  </div>
+
+</article>
+
+
+
+
+
+
+
+
+<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/breaking" class="breaking">国外资讯 </a> / breaking
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/sincera" class="uname user_sinCera" data-name="sinCera" target="_blank">sinCera</a> • <abbr class="timeago" title="2015-01-04T09:48:34+08:00"></abbr> </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218360.html"><i class="icon icon-share"></i> 10</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218360.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2015/e1ad0b33f8cd4fd6eb5271ad1233ea81.jpg!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218360.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="风太大，你说 Chromebook 很便宜？E Fun 推出不到 300 美元的二合一变形本">风太大，你说 Chromebook 很便宜？E Fun 推出不到 300 美元的二合一变形本</a></h1>
+    <p>总比几百美元买个网页浏览器好。</p>
+  </div>
+
+</article>
+
+
+
+
+
+      <script type="text/javascript">BAIDU_CLB_fillSlot("495279");</script>
+
+
+
+<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/digest" class="digest">生活方式 </a> / digest
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/jingzeli" class="uname user_JingzeLi" data-name="大飛哥" target="_blank">大飛哥</a> • <abbr class="timeago" title="2015-01-04T09:46:32+08:00"></abbr> </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218359.html"><i class="icon icon-share"></i> 10</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218359.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2015/fb21c4366647d499231fc0bf7a90fe88.jpg!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218359.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="简单、时尚的远程遥控器，SPIN通过触摸和旋转让你忘掉传统遥控">简单、时尚的远程遥控器，SPIN通过触摸和旋转让你忘掉传统遥控</a></h1>
+    <p>一触，一转就能控制SPIN。</p>
+  </div>
+
+</article>
+
+
+
+
+
+
+
+
+<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/breaking" class="breaking">国外资讯 </a> / breaking
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/retric" class="uname user_Retric" data-name="Retric" target="_blank">Retric</a> • <abbr class="timeago" title="2015-01-04T09:46:13+08:00"></abbr> </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218357.html"><i class="icon icon-share"></i> 15</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218357.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2015/9ecc4665d7a9c2578597b1a6e25d6fb3.jpg!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218357.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="除了大屏Chromebook 15，宏碁还推出新款笔记本，配备高端RealSense 3D摄像头">除了大屏Chromebook 15，宏碁还推出新款笔记本，配备高端RealSense 3D摄像头</a></h1>
+    <p>屏幕越来越大，摄像头越来越diao。</p>
+  </div>
+
+</article>
+
+
+
+
+
+
+
+
+<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/cn-news" class="cn-news">国内资讯</a> / cn-news
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/u1400769866" class="uname user_u1400769866" data-name="Zuo" target="_blank">Zuo</a> • <abbr class="timeago" title="2015-01-04T09:15:09+08:00"></abbr> </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218355.html"><i class="icon icon-share"></i> 11</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218355.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2015/ba451c67491d0f288b70cbf2f6b5cce5.jpg!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218355.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="6112万台，小米全年目标达成，但是Q4出货量环比首次出现下滑">6112万台，小米全年目标达成，但是Q4出货量环比首次出现下滑</a></h1>
+    <p>四季度的1700万台相比三季度的1800万台出现了明显的下滑，而且小米的平均客单价也再次下滑。</p>
+  </div>
+
+</article>
+
+
+
+
+
+
+
+
+<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/cn-news" class="cn-news">国内资讯</a> / cn-news
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/u1400769866" class="uname user_u1400769866" data-name="Zuo" target="_blank">Zuo</a> • 08:34 / 04 </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218354.html"><i class="icon icon-share"></i> 6</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218354.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2015/141b9e83380e8a70f3ebea3d07bffaf0.jpg!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218354.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="8点1氪：小米2014年全年售出6112万台手机">8点1氪：小米2014年全年售出6112万台手机</a></h1>
+    <p>阿尔卡特推出三系统Pixi 3低端手机，宏碁新款笔记本配备RealSense 3D摄像头，Twitter自带视频工具细节披露，扎克伯格邀请3000万粉丝加入“读书俱乐部”。</p>
+  </div>
+
+</article>
+
+
+
+
+
+
+
+
+<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/column" class="column">专栏</a> / column
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/u1394858830" class="uname user_u1394858830" data-name="Leah" target="_blank">Leah</a> • 08:05 / 04 </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218353.html"><i class="icon icon-share"></i> 9</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218353.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2015/916e724d6ebd070b00e4248dc69f6eda.jpg!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218353.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="移动健康医疗元年预测：巨头来自这四股势力">移动健康医疗元年预测：巨头来自这四股势力</a></h1>
+    <p>他们的共同点是，有钱有势……。</p>
+  </div>
+
+</article>
+
+
+
+
+
+
+
+
+<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/us-startups" class="us-startups">创业公司</a> / startups
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/syq" class="uname user_syq" data-name="小石头" target="_blank">小石头</a> • 07:06 / 04 </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218352.html"><i class="icon icon-share"></i> 20</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218352.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2015/54c5106d4fe40d0277f25ad0f4380741.png!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218352.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="Google Glass 和 Oculus Rift 之间还有空白，一直服务军工的ODG做了智能眼镜">Google Glass 和 Oculus Rift 之间还有空白，一直服务军工的ODG做了智能眼镜</a></h1>
+    <p>军工出品，必属精品，要不微软怎么会掏1.5个亿没有呢。</p>
+  </div>
+
+</article>
+
+
+
+
+
+
+
+
+<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/column" class="column">专栏</a> / column
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/boxiyang" class="uname user_boxiyang" data-name="boxi" target="_blank">boxi</a> • 22:48 / 03 </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218351.html"><i class="icon icon-share"></i> 7</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218351.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2015/a96271d0a4c8abb37fee3bdcef3cc361.jpg!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218351.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="2014年十大编程语言">2014年十大编程语言</a></h1>
+    <p>近日，IEEE Spectrum推出了一个最流行的编程语言排行榜。</p>
+  </div>
+
+</article>
+
+
+
+
+
+
+
+
+<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/column" class="column">专栏</a> / column
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/gznyh167" class="uname user_gznyh167" data-name="捏一横" target="_blank">捏一横</a> • 18:45 / 03 </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218350.html"><i class="icon icon-share"></i> 10</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218350.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2015/43d0d853dfba22dd646184868c1c5b9f.jpg!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218350.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="【KrTV视频】对抗全球缺水，能转化大气水分的 Fresh Water">【KrTV视频】对抗全球缺水，能转化大气水分的 Fresh Water</a></h1>
+    <p>是时候关心一下世界和平了。</p>
+  </div>
+
+</article>
+
+
+
+
+
+
+
+
+<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/column" class="column">专栏</a> / column
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/yuanlingliao" class="uname user_yuanlingliao" data-name="苑伶" target="_blank">苑伶</a> • 17:34 / 03 </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218348.html"><i class="icon icon-share"></i> 13</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218348.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2015/74f83f79c63f8416da28ed07e1605130.jpg!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218348.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="Fred Wilson 预测2015：小米强势进入美国市场、VR和可穿戴设备受挫、资本市场求稳……">Fred Wilson 预测2015：小米强势进入美国市场、VR和可穿戴设备受挫、资本市场求稳……</a></h1>
+    <p>2015将发生什么。</p>
+  </div>
+
+</article>
+
+
+
+
+
+
+
+
+<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/column" class="column">专栏</a> / column
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/yuanlingliao" class="uname user_yuanlingliao" data-name="苑伶" target="_blank">苑伶</a> • 17:25 / 03 </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218349.html"><i class="icon icon-share"></i> 5</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218349.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2015/9f64c1bb75c205e7a0f56f9f8694f2a9.jpg!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218349.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="Fred Wilson 回顾2014：IM兴起社交网络没落、资本运转向互联网迁移、Android市场可能出现新巨头……">Fred Wilson 回顾2014：IM兴起社交网络没落、资本运转向互联网迁移、Android市场可能出现新巨头……</a></h1>
+    <p>回顾2014，有什么你不能忘。</p>
+  </div>
+
+</article>
+
+
+
+
+
+
+
+
+<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/breaking" class="breaking">国外资讯 </a> / breaking
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/sincera" class="uname user_sinCera" data-name="sinCera" target="_blank">sinCera</a> • 15:25 / 03 </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218347.html"><i class="icon icon-share"></i> 5</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218347.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2015/8e2f0a6ccb5af16ed21bb450c897008c.png!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218347.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="最不怕的就是体力活，新工具称可穷举破解 iCloud 账户密码">最不怕的就是体力活，新工具称可穷举破解 iCloud 账户密码</a></h1>
+    <p>iCloud 明星照泄漏后，苹果和用户已经草木皆兵。</p>
+  </div>
+
+</article>
+
+
+
+
+
+
+
+
+<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/breaking" class="breaking">国外资讯 </a> / breaking
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/sincera" class="uname user_sinCera" data-name="sinCera" target="_blank">sinCera</a> • 15:07 / 03 </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218346.html"><i class="icon icon-share"></i> 15</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218346.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2015/f4ea7dcb273fef137851156a89f6b0f6.jpg!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218346.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="官泄专业户 FCC 再现苹果官方 iBeacon 设备">官泄专业户 FCC 再现苹果官方 iBeacon 设备</a></h1>
+    <p>总之，它不像是会放在 Apple Store 卖的。</p>
+  </div>
+
+</article>
+
+
+
+
+
+
+
+
+<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/breaking" class="breaking">国外资讯 </a> / breaking
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/u1400769866" class="uname user_u1400769866" data-name="Zuo" target="_blank">Zuo</a> • 01/03 10:26 </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218345.html"><i class="icon icon-share"></i> 15</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218345.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2015/6356a6aeb374dbde3f7f4521615ae13a.jpg!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218345.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="8点1氪：Mt.Gox丢失的4.7亿美元比特币99%系“内部操纵”">8点1氪：Mt.Gox丢失的4.7亿美元比特币99%系“内部操纵”</a></h1>
+    <p>2014年美国消费者最满意亚马逊，完美世界启动私有化进程，微软错误更新导致必应和雅虎搜索宕机，Google公布微软未修复的Windows 8.1漏洞。</p>
+  </div>
+
+</article>
+
+
+
+
+
+
+
+
+<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/breaking" class="breaking">国外资讯 </a> / breaking
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/sincera" class="uname user_sinCera" data-name="sinCera" target="_blank">sinCera</a> • 01/03 09:25 </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218344.html"><i class="icon icon-share"></i> 15</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218344.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2015/1a08d600bf8bd3c91f36a83871dada39.jpg!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218344.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="个人精选的“一日一图”，宝丽来与 Blipfoto 合作推出图片日志服务">个人精选的“一日一图”，宝丽来与 Blipfoto 合作推出图片日志服务</a></h1>
+    <p>宝丽来的盈利模式从限量相机变成消费自己的品牌。</p>
+  </div>
+
+</article>
+
+
+
+
+
+
+
+
+<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/digest" class="digest">生活方式 </a> / digest
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/yuanlingliao" class="uname user_yuanlingliao" data-name="苑伶" target="_blank">苑伶</a> • 01/03 09:06 </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218343.html"><i class="icon icon-share"></i> 7</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218343.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2015/ee8918da72d65e66624451da5595e357.jpg!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218343.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="量化自我也可能改变企业的未来">量化自我也可能改变企业的未来</a></h1>
+    <p>一年多前，量化自我在美国变得疯狂起来。</p>
+  </div>
+
+</article>
+
+
+
+
+
+
+
+
+<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/column" class="column">专栏</a> / column
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/boxiyang" class="uname user_boxiyang" data-name="boxi" target="_blank">boxi</a> • 01/02 22:44 </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218340.html"><i class="icon icon-share"></i> 5</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218340.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2015/c2e86001f16c5f1d412720b4672544d0.jpg!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218340.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="CES 2015前瞻">CES 2015前瞻</a></h1>
+    <p>新年到了，又到了预测和展望科技趋势的时刻。</p>
+  </div>
+
+</article>
+
+
+
+
+
+
+
+
+<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/column" class="column">专栏</a> / column
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/yvesyan" class="uname user_YvesYAN" data-name="YvesYAN" target="_blank">YvesYAN</a> • 01/02 22:32 </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218339.html"><i class="icon icon-share"></i> 5</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218339.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2015/f8324b9d79504df31b51247f2f26063d.jpg!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218339.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="创业之前问问自己，能不能做好这14件事情">创业之前问问自己，能不能做好这14件事情</a></h1>
+    <p>如果想要创业，就必须热爱这些事情，或者至少能忍受每天面对它们。</p>
+  </div>
+
+</article>
+
+
+
+
+
+
+
+
+<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/cn-news" class="cn-news">国内资讯</a> / cn-news
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/u1400769866" class="uname user_u1400769866" data-name="Zuo" target="_blank">Zuo</a> • 01/02 21:58 </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218152.html"><i class="icon icon-share"></i> 9</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218152.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2015/6597e9bbe14d592f0b96d3f6aa5471f4.jpg!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218152.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="电话号码：移动互联网最后一个ID">电话号码：移动互联网最后一个ID</a></h1>
+    <p>过去十年通信行业波澜不惊，微信&amp;QQ账号体系统治互联网，新的一年里，一场围绕电话号码的争夺战打响了。</p>
+  </div>
+
+</article>
+
+
+
+
+
+
+
+
+<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/us-startups" class="us-startups">创业公司</a> / startups
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/yuanlingliao" class="uname user_yuanlingliao" data-name="苑伶" target="_blank">苑伶</a> • 01/02 21:26 </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218337.html"><i class="icon icon-share"></i> 12</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218337.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2015/aa9648f15835dfcdeba717d5f14ad995.png!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218337.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="教育工作者如何跟科技接轨？Educade想鼓励拥抱科技的老师们来分享教学经验">教育工作者如何跟科技接轨？Educade想鼓励拥抱科技的老师们来分享教学经验</a></h1>
+    <p>相比起对学生的教育，其实对老师的教育或许更为重要。</p>
+  </div>
+
+</article>
+
+
+
+
+
+
+
+
+<article class="posts post-1 cf">
+
+    <div class="info cf">
+      <div class="topic left">
+        <span><a href="/category/breaking" class="breaking">国外资讯 </a> / breaking
+        </span>
+      </div>
+      <div class="postmeta right"><a href="/sincera" class="uname user_sinCera" data-name="sinCera" target="_blank">sinCera</a> • 01/02 21:15 </div>
+    </div>
+  <div class="left left-col">
+    <div class="meta"><a title="回应人数" href="/p/218336.html"><i class="icon icon-share"></i> 12</a></div>
+    <div class="image feature-img thumb-180"><a href="/p/218336.html"><img alt="Blank" class="image lazyload" data-src="http://a.36krcnd.com/photo/2015/54555f0ada21657d68f345acd03e3b01.png!slider" src="http://d.36kr.com/assets/images/blank.gif" /></a></div>
+  </div>
+  <div class="right-col">
+    <h1><a href="/p/218336.html" data-no-turbolink="true" onclick="javascript:_gaq.push([&#x27;_trackPageview&#x27;, &#x27;/click/index_newtab/&#x27;]);" target="_blank" title="专治各种借，Mac 的 Thunderbolt 接口也能植入病毒了">专治各种借，Mac 的 Thunderbolt 接口也能植入病毒了</a></h1>
+    <p>我的显示器有病毒，真的。</p>
+  </div>
+
+</article>
+
+
+
+
+
+
+
+
+
+				</div>
+				<div class="pagination cf"><ul><li class="prev previous_page disabled"><a href="#"><i class="icon-prev"></i>上一页</a></li> <li class="next next_page "><a rel="next" href="/?page=2#lastest">下一页<i class="icon-next"></i></a></li></ul></div>
+			</div>
+		</div>
+
+
+              <div class="aside">
+          			<section class="aside-tags">
+				<h2>Feature Tags</h2>
+				<ul class="aside-tags__list cf">
+					<li><a href="http://www.36kr.com/events/oday-201412-hz">36氪开放日 杭州站<i class="new"></i></a></li>
+<li><a href="http://space.36kr.com">氪空间</a><i class="promoted">Promoted</i></li>
+<li><a href="/tag/WISE%202014">WISE 2014<i class="new"></i></a></li>
+<li><a href="/tag/KrTV">KrTV（视频）</a></li>
+<li><a href="/tag/GoogleIO2014">Google I/O 2014</a></li>
+<li><a href="/tag/wwdc-2014">WWDC 2014</a></li>
+<li><a href="/tag/氪星人的应用">氪星人的应用</a></li>
+<li><a href="/tag/wise-talk">WISE Talk</a></li>
+<li><a href="/tag/insight视频访谈">insight视频访谈</a></li>
+<li><a href="/tag/startup-x">Startup X</a></li>
+<li><a href="/topic/smart-hardware">智能硬件</a></li>
+				</ul>
+			</section>
+          			<section class="aside-social">
+				<p>微信公众平台：搜索“36氪”或扫描下面的二维码：</p>
+				<div class="image aside-social__qrcode"><img alt="Qrcode" src="http://d.36kr.com/assets/images/qrcode.jpg" /></div>
+				<div class="aside-social__social">
+					<ul>
+						<li class="aside-social__items">
+							<a href="http://weibo.com/wow36kr" class="icons-weibo">Weibo</a>
+							<span class="aside-social__count">60K</span>
+						</li>
+						<li class="aside-social__items">
+							<a href="https://twitter.com/36kr" class="icons-twitter">Twitter</a>
+							<span class="aside-social__count">14K</span>
+						</li>
+						<li class="aside-social__items">
+							<a href="http://www.facebook.com/X36Kr" class="icons-facebook">Facebook</a>
+							<span class="aside-social__count">10K</span>
+						</li>
+						<li class="aside-social__items">
+							<a target="_blank" href="http://www.36kr.com/feed/" class="icons-rss">RSS</a>
+							<span class="aside-social__count">100K</span>
+						</li>
+					</ul>
+				</div>
+			</section>
+        </div>
+    </div>
+          <div class="sidebar">
+      <section class="sidebar-ad">
+			<script type="text/javascript">BAIDU_CLB_fillSlot("495282");</script>
+      </section>
+        			<section class="sidebar-tab">
+				<ul class="sidebar-tab__tabs cf tabs">
+					<li class="tab-forum"><a data-target="#tab-forum" title="">社区新帖</a></li>
+					<li class="tab-36krplus"><a data-target="#tab-36krplus" title="">Startup-X</a></li>
+					<li class="tab-815"><a class="active" data-target="#tab-815" title="">8点1氪</a></li>
+				</ul>
+				<div id="tabs-content" class="sidebar-tab__wrapper">
+					<div id="tab-forum" class="sidebar-tab__forum tabs-pane">
+												<ul>
+							<li><h2><a href="/topics/26392" target="_blank">么么哒3N亲密升级，手机社交创造新风向</a></h2></li>
+							<li><h2><a href="/topics/26391" target="_blank">IT技能学习神器：慕课网App再获应用市场重磅推荐</a></h2></li>
+							<li><h2><a href="/topics/26352" target="_blank">超级App+WebApp将主宰未来的移动互联网？</a></h2></li>
+							<li><h2><a href="/topics/26389" target="_blank">云像数字安士辉荣获2014品牌中国互联网行业年度人物</a></h2></li>
+							<li><h2><a href="/topics/26390" target="_blank">“小米平板2”浮出水面，高品质低价路线能否赢得市场</a></h2></li>
+							<li><h2><a href="/topics/26388" target="_blank">论坛社交2.0时代——抢占碎片化时间抢占终端</a></h2></li>
+							<li><h2><a href="/topics/26387" target="_blank">2014年中国十大最受关注智能硬件</a></h2></li>
+							<li><h2><a href="/topics/26386" target="_blank">互联网健康领域并购加速，天鸽互动诠释有钱就是任性</a></h2></li>
+							<li><h2><a href="/topics/26385" target="_blank">SmallTalk互联网爱好者沙龙－五期主题：在线教育的浪潮</a></h2></li>
+							<span class="tabulousclear"></span>
+						</ul>
+ 					</div>
+					<div id="tab-36krplus" class="sidebar-tab__36krplus tabs-pane">
+												<ul>
+							<li><h2><a href="/p/211027.html" title="Google Glass都在企业领域垂直细分了？让Wearable Intelligence告诉你它是很么当工作助手的">Google Glass都在企业领域垂直细分了？让Wearable Intelligence告诉你它是很么当工作助手的</a></h2></li>
+							<li><h2><a href="/p/210945.html" title="Siri背后的实验室SRI推出Ceres项目，拍张照告诉你食物里有多少热量">Siri背后的实验室SRI推出Ceres项目，拍张照告诉你食物里有多少热量</a></h2></li>
+							<li><h2><a href="/p/210826.html" title="让音乐人可以用一首半成品预售，Spawnsong想用单曲“众筹”改变音乐的制作和消费">让音乐人可以用一首半成品预售，Spawnsong想用单曲“众筹”改变音乐的制作和消费</a></h2></li>
+							<li><h2><a href="/p/210778.html" title="华人创业团队Orbeus将推出iPhone版图片自动识别及整理应用ReKoMe">华人创业团队Orbeus将推出iPhone版图片自动识别及整理应用ReKoMe</a></h2></li>
+							<li><h2><a href="/p/210749.html" title="外卖送餐服务Sprig获A轮融资1000万美金，现做热乎饭菜20分钟内送上门">外卖送餐服务Sprig获A轮融资1000万美金，现做热乎饭菜20分钟内送上门</a></h2></li>
+							<li><h2><a href="/p/210647.html" title="扫一扫地产广告便可直接从平板上看到可交互的房屋3D模型，地产AR模型提供商Virtual View获50万美元天使投资">扫一扫地产广告便可直接从平板上看到可交互的房屋3D模型，地产AR模型提供商Virtual View获50万美元天使投资</a></h2></li>
+							<li><h2><a href="/p/210459.html" title="语音控制解决方案服务商Wit：几行代码为第三方App搞定语音交互界面">语音控制解决方案服务商Wit：几行代码为第三方App搞定语音交互界面</a></h2></li>
+							<li><h2><a href="/p/210432.html" title="实时了解孩子的位置之余也统一管理家人的位置，初创公司hereO推出儿童智能手表">实时了解孩子的位置之余也统一管理家人的位置，初创公司hereO推出儿童智能手表</a></h2></li>
+							<li><h2><a href="/p/210290.html" title="谁也看不出我穿了传感器：Nex Band模块化定制时尚腕带">谁也看不出我穿了传感器：Nex Band模块化定制时尚腕带</a></h2></li>
+						</ul>
+					</div>
+					<div id="tab-815" class="sidebar-tab__815 tabs-pane active">
+												<ul>
+							<li><h2><a href="/clipped/9552" target="_blank">宏碁推新版笔记本，配备英特尔RealSense 3D摄像头</a></h2></li>
+							<li><h2><a href="/clipped/9551" target="_blank">Zuckerbergy邀请3000万粉丝加入“读书俱乐部”</a></h2></li>
+							<li><h2><a href="/clipped/9550" target="_blank">Twitter自带视频工具细节披露</a></h2></li>
+							<li><h2><a href="/clipped/9549" target="_blank">Mt.Gox失窃的4.7亿美元比特币99%系“内部操纵”</a></h2></li>
+							<li><h2><a href="/clipped/9548" target="_blank">2014年美国消费者最满意亚马逊</a></h2></li>
+							<li><h2><a href="/clipped/9547" target="_blank">完美世界启动私有化之路</a></h2></li>
+							<li><h2><a href="/clipped/9546" target="_blank">Google公开Windows尚未修复的漏洞代码</a></h2></li>
+							<li><h2><a href="/clipped/9545" target="_blank">微软错误的更新推送导致必应和雅虎搜索宕机</a></h2></li>
+							<li><h2><a href="/clipped/9542" target="_blank">三星宣布2015年旗下智能电视将采用Tizen系统</a></h2></li>
+							<span class="tabulousclear"></span>
+						</ul>
+
+ 					</div>
+				</div>
+			</section>
+
+
+       <section class="sidebar-ad">
+			<script type="text/javascript">BAIDU_CLB_fillSlot("495283");</script>
+       </section>
+
+          <section class="sidebar-popular cf">
+<h3>赞助商链接</h3>
+<div class="sidebar-sponsored__list">
+  <article class="sidebar-sponsored__posts cf">
+    <div class="meta"></div>
+    <div class="image thumb-60 right"><img src="http://a.36krcnd.com/photo/2014/1512189e2929f9ce66453f5cbf1a4652.png"></div>
+    <a href="http://mp.weixin.qq.com/s?__biz=MjM5Njg3NDYyMQ==&amp;mid=200717438&amp;idx=1&amp;sn=7cd68927092948afc2f073a68529554d&amp;scene=1&amp;from=singlemessage&amp;isappinstalled=0#rd">推送技术哪家强 个推无疑排第一</a>
+  </article>
+  <article class="sidebar-sponsored__posts cf">
+    <div class="meta"></div>
+    <div class="image thumb-60 right"><img src="http://a.36krcnd.com/photo/2014/8565e7fd1b681a2bfb209126b1e9c0b4.jpg"></div>
+    <a href="http://mp.weixin.qq.com/s?__biz=MjAzNzMzNTkyMQ==&amp;mid=202185140&amp;idx=4&amp;sn=38f23c431e351f67ff60e05745528df5&amp;scene=1&amp;key=7bf3a43bce37ed3c5461f43877b4f00b67f86f0a39e2013d1c6eba8473845f92620e9e7c734209b94697bc59a65df318&amp;ascene=0&amp;uin=MjE3MTA2MzY2Mg%3D%3D&amp;devicetype=iMac+MacBookAir6%2C2+OSX+OSX+10.9.5+build(13F34)&amp;version=11010011&amp;pass_ticket=NbYc280rDPf7nxrD1Ms%2Fmqe8tabhRGAJ7eBZeWyIn%2BwPwFyoLcY1qDFh3uitP%2FlG">腾讯云国内首获云计算领域 ISO 27001:2013 认证，成云计算安全标杆</a>
+  </article>
+  <article class="sidebar-sponsored__posts cf">
+    <div class="meta"></div>
+    <div class="image thumb-60 right"><img src="http://a.36krcnd.com/photo/2014/af0ae73974f6cd85d6c99bedf9454570.jpg"></div>
+    <a href="http://lbsbbs.amap.com/forum.php?mod=viewthread&amp;tid=1777&amp;extra=" title="定位服务 安全类智能硬件背后的助推者 &gt;">定位服务 安全类智能硬件背后的助推者 </a>
+  </article>
+</div>
+</section>
+
+        
+        			<section id="sidebar-comments">
+				<h3>优质评论</h3>
+				<div class="sidebar-comments__list">
+					    <div class="comment-1">
+      <div class="postmeta"><a href="/ashuchen" class="uname user_ashuchen" data-name="阿术" target="_blank">阿术</a> • 1小时前</div>
+      <div class="sidebar-comments__comment">
+        #7楼 @kaiser44315 盗版分两种情况：
+
+<p...
+      </div>
+      <div class="sidebar-comments__title">
+        <p>评论于<a href="/p/218284.html">“轻漫画”，轻在哪里？</a></p>
+      </div>
+    </div>
+    <div class="comment-1">
+      <div class="postmeta"><a href="/u1364695510" class="uname user_u1364695510" data-name="Melt" target="_blank">Melt</a> • 1小时前</div>
+      <div class="sidebar-comments__comment">
+        #1楼 @阿术 虽然上面说不管种，但是还是建议建立个更专业的编辑部来施肥浇水，...
+      </div>
+      <div class="sidebar-comments__title">
+        <p>评论于<a href="/p/218284.html">“轻漫画”，轻在哪里？</a></p>
+      </div>
+    </div>
+    <div class="comment-1">
+      <div class="postmeta"><a href="/ashuchen" class="uname user_ashuchen" data-name="阿术" target="_blank">阿术</a> • 1小时前</div>
+      <div class="sidebar-comments__comment">
+        一直以来一直看36Kr的文章，感谢36Kr对我们项目的报道！
+轻漫画还是一个早期项目，现在很多方面都不完善，但我们正在努力把他变成一个靠谱的项目。
+非常欢迎大家给我们提意见！如果大家愿意留言提问，我们将在36Kr的评论里直接回复大家我们的点滴想法！
+      </div>
+      <div class="sidebar-comments__title">
+        <p>评论于<a href="/p/218284.html">“轻漫画”，轻在哪里？</a></p>
+      </div>
+    </div>
+    <div class="comment-1">
+      <div class="postmeta"><a href="/u1419840587" class="uname user_u1419840587" data-name="u1419840587" target="_blank">u1419840587</a> • 1小时前</div>
+      <div class="sidebar-comments__comment">
+        #2楼 @sunny0o0 嗯嗯，我们也思考了很久，牺牲了一些...
+      </div>
+      <div class="sidebar-comments__title">
+        <p>评论于<a href="/p/218215.html">虚拟现实需要多元的输入设备</a></p>
+      </div>
+    </div>
+    <div class="comment-1">
+      <div class="postmeta"><a href="/aceone" class="uname user_aceone" data-name="嘿" target="_blank">嘿</a> • 1小时前</div>
+      <div class="sidebar-comments__comment">
+        #4楼 @金多多说她被流放在荒岛 me too，自制内容对我构成很...
+      </div>
+      <div class="sidebar-comments__title">
+        <p>评论于<a href="/p/218181.html">B站遭多家视频网站齐起诉</a></p>
+      </div>
+    </div>
+    <div class="comment-1">
+      <div class="postmeta"><a href="/jiji" class="uname user_jiji" data-name="叽叽" target="_blank">叽叽</a> • 1小时前</div>
+      <div class="sidebar-comments__comment">
+        三星的业绩一直在下滑，去年开始已经没有可圈可点的新机型推出了。国内手机这两年在硬件、软件方面做的都比三星好，价格又比三星低，当然选择国产手机啦！
+      </div>
+      <div class="sidebar-comments__title">
+        <p>评论于<a href="/p/218137.html">Apple Store三星学不会</a></p>
+      </div>
+    </div>
+
+				</div>
+			</section>
+       <section class="sidebar-ad">
+			<!-- 广告位：#图片#首页右侧第三屏 -->
+<script type="text/javascript">BAIDU_CLB_fillSlot("495284");</script>
+       </section>
+    </div> 
+  </div>
+  	<footer class="footer">
+		<div class="row">
+						<div class="footer-36kr">
+				<h3>36氪</h3>
+				<ul>
+					<li><a href="/about">关于36氪</a></li>
+					<li><a href="http://space.36kr.com">氪空间</a> <sup>NEW!</sup></li>
+					<li><a href="/hire">加入我们</a></li>
+					<li><a href="http://report.36kr.com">寻求报道</a></li>
+					<li><a href="/contact-us/">联系我们</a></li>
+					<li><a href="/sub/">客户端下载</a></li>
+					<li>投诉邮箱：<a href="mailto:ceo@36kr.com">ceo@36kr.com</a></li>
+				</ul>
+			</div>
+			<div class="footer-subscribe">
+				<h3>订阅</h3>
+				<ul>
+					<li><a href="/sub/">RSS订阅</a></li>
+					<li><a href="/sub/">邮箱订阅</a></li>
+					<li><a href="/sub/">线下活动订阅</a></li> 
+					<li></li> 
+					<li><a href="http://weibo.com/wow36kr">官方微博</a></li> 
+					<li><a href="https://twitter.com/36kr">Twitter</a></li> 
+				</ul>
+			</div>
+<div class="footer-partner">
+				<h3>合作伙伴</h3>
+				<ul class="cf">
+					<li><a href="http://www.aliyun.com" class="external"><img src="http://uploads.36krcnd.com/upload/file/76c4d88140f85a190647dc00cd9d6c35.png" width="86" height="21"></a></li>
+					<li><a href="http://dnspod.cn" class="external"><img src="http://a.36krcnd.com/photo/2014/0ae4f92e9796a8a8a8cfe97a2c29d1b2.png" alt=""></a></li>
+					<li><a href="http://qingcloud.com" class="external"><img src="http://a.36krcnd.com/photo/2014/fac4daea3163cbb72b12613365297d66.png" alt=""></a></li>
+					<li><a href="http://qcloud.com" class="external"><img src="http://a.36krcnd.com/photo/2014/dd9cae66e3cc32be4ef4cf849c22d70b.png" alt=""></a></li>
+					<li><a href="http://upyun.com" class="external"><img src="http://a.36krcnd.com/photo/2014/ba639550940bf943fb0467c5ea14fbc6.png" alt=""></a></li>
+					<li><a href="http://qiniu.com" class="external"><img src="http://a.36krcnd.com/photo/2014/ce210c6ddb324544e23102af0539ec5c.png" alt=""></a></li>
+				</ul>
+			</div>
+			<div class="footer-copyright">
+				<p>本站由 <a href="http://webluker.com">WebLuker</a> 提供 CDN 加速服务，开发协作工具由 <a href="http://fengche.co">Fengche.co</a> 提供。我们使用 <a href="https://slack.com/r/024gqt7g-025leep4">Slack</a> 进行沟通。</p>
+				<p>Powered By <a title="36氪网站最初采用 Ruby China 开源代码构建" href="http://ruby-china.org/">Ruby China</a></p>
+				<p>©2011-2014 36氪</p>
+				<p>京ICP备12031756号</p>
+				<p>京公网安备11010802012285号</p>
+			</div>
+		</div>
+	</footer>
+  	<div id="panel-login" class="panel mfp-hide instapaper_ignore">
+			<h3>无需注册，直接使用社交账号登录</h3>
+			<section class="login-social cf">
+			  <a href="/account/auth/weibo" class="login-social__weibo"><i class="icon-social-weibo"></i>微博</a>
+			  <a href="/account/auth/qq" class="login-social__qq"><i class="icon-social-qq"></i>QQ</a>
+			  <a href="/account/auth/renren" class="login-social__renren"><i class="icon-social-renren"></i>人人</a>
+			  <a href="/account/auth/github" class="login-social__github"><i class="icon-social-github"></i>GitHub</a>
+			</section>
+			<hr />
+			<section class="login-section">
+				<form accept-charset="UTF-8" action="/account/sign_in" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="zailaCDjSmSLEsbE+ciwumjoUBCR9A8dO1GOkm3O3VI=" /></div>
+				<div class="form login">
+					<div class="login__email">
+						<input id="user_login" name="user[login]" placeholder="用户名或邮箱" size="30" spellcheck="false" type="text" />
+				    <i class="icon-login-mail"></i>
+				  </div>
+				  <div class="login__password">
+				  	<input focus-on="suggestion:accepted" id="user_password" name="user[password]" placeholder="密码" size="30" spellcheck="false" type="password" />
+				    <i class="icon-lock"></i>
+				  </div>
+				  <div class="login__links cf">
+				    <p class="left"><a href="/account/password/new">忘记密码？</a></p>
+				    <button type="submit" class="submit right">登录</button>
+				  </div>					  
+				</div>
+				<hr />
+				<div class="register__links cf">
+				  <p class="left">没有帐号？ <a class="login__register-btn" href="javascript:void(0)">注册</a></p>
+				</div>
+</form>			</section>
+			<section class="register-section">
+				<form accept-charset="UTF-8" action="/account" id="register_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="zailaCDjSmSLEsbE+ciwumjoUBCR9A8dO1GOkm3O3VI=" /></div>
+					<input hidden="hidden" id="user_name" name="user[name]" placeholder="昵称" size="30" type="text" />
+					<input hidden="hidden" id="user_pw_confirmation" name="user[pw_confirmation]" placeholder="" size="30" type="text" />
+				<div class="form register">
+					<div class="register__username">
+					<input id="user_login" name="user[login]" placeholder="用户名 仅英文或数字" size="30" spellcheck="false" type="text" />
+					  <i class="icon-user"></i>
+					</div>
+					<div class="register__email">
+					<input id="user_email" name="user[email]" placeholder="邮箱" size="30" spellcheck="false" type="email" />
+				    <i class="icon-login-mail"></i>
+				  </div>
+				  <div class="register__password">
+					<input focus-on="suggestion:accepted" id="user_password" name="user[password]" placeholder="密码" size="30" spellcheck="false" type="password" />
+				    <i class="icon-lock"></i>
+				  </div>
+				  <div class="login__links cf">
+				  	<p class="left">已有帐号？ <a class="register__login-btn" href="javascript:void(0)">登录</a></p>
+				  	<button type="submit" class="submit right">注册</button>
+				  </div>
+				</div>
+</form>			</section>
+	</div>
+
+    <!--[if lt IE 7]>
+    <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+  <![endif]-->
+  <script src="http://cdn.staticfile.org/jquery/2.0.3/jquery.min.js"></script>
+  <script src="http://d.36kr.com/assets/main-19a27cda36fa6dc0b66fcdc9bb650f15.js" type="text/javascript"></script>
+  <script src="http://d.36kr.com/assets/topics-752bb2a430d47e8c50e3d187d10ec9ea.js" type="text/javascript"></script>
+ 
+
+  <script type="text/javascript">
+    $.extend($.lazyLoadXT, {
+      onload: { addClass: 'loaded' }
+    });
+  </script>
+
+
+  <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+  <script>
+    var _gaq=[['_setAccount','UA-1268479-12'],['_trackPageview']];
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+    g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+    s.parentNode.insertBefore(g,s)}(document,'script'));
+    _gaq.push(['_trackTiming', 'Garelic', 'Response (Total)', 276, 'TopicsController#index']);
+_gaq.push(['_trackTiming', 'Garelic', 'Response (Views)', 198, 'TopicsController#index']);
+_gaq.push(['_trackTiming', 'Garelic', 'Response (ActiveRecord)', 0, 'TopicsController#index']);
+  </script>
+    <script type="text/javascript">BAIDU_CLB_fillSlot("996623");</script>
+
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";
+e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
+  "js-agent.newrelic.com/nr-100.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+};
+NREUMQ.push(["nrfj","beacon-5.newrelic.com","fcacf1ff8a","1588172","J1xYFxYMD18DRkwVXBRaVRBLCg1XA0w=",0,279,new Date().getTime(),"","","","",""]);</script></body>
+</html>
